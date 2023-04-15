@@ -1,8 +1,8 @@
 # Hi, I'm Maxix
 
 ## Now working on 
- - Mini bot
- - Discord bot web template
+ - [Mini bot](https://github.com/MaxixSVK/minibot)
+ - [Discord bot web template](https://github.com/MaxixSVK/discord-bot-web-template)
 
 ## My setup
  - Windows  / Fedora dual boot
