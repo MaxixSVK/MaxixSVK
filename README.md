@@ -1,10 +1,8 @@
 # Hi, I'm Maxix
 
 ## Now working on 
- - [Mini bot](https://github.com/MaxixSVK/minibot)
- - [Discord bot web template](https://github.com/MaxixSVK/discord-bot-web-template)
-
+- Custom discord bot for [Lycoris Recoild discord server](https://discord.gg/LycorisRecoil) -> [Walnut](https://github.com/MaxixSVK/walnut-bot)
 ## My setup
- - R5 2600x
- - RX 570
+- R5 2600x
+- RX 570
 
