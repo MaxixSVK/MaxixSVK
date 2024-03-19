@@ -1,4 +1,4 @@
-# Hi, I'm [Maxix}(http://maxix.sk)
+# Hi, I'm [Maxix](http://maxix.sk)
 
 ## Now working on 
 - amDBX - coming soon
